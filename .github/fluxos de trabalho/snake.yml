@@ -1,4 +1,6 @@
 name: Generate Datas
+  uses: actions/first-interaction@v1.1.0
+  
 
 on:
   schedule: # execute every 12 hours
