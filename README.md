@@ -4,7 +4,7 @@
 - 🌱 Estudando Java
 - 📫 Contate-me no e-mail: thaislanesteves@hotmail.com
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: ...
+
 ##
 <div align="center">
  <a href="https://github.com/thaislane", >
