@@ -23,7 +23,7 @@
  <img align="center" alt="Thay-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <img align="center" alt="Thay-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
  <img align="center" alt="Thay-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
- 
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/thaislane/thaislane/blob/main/thaislane.gif">
 </div>
 
 ##
