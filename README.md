@@ -1,9 +1,11 @@
-### Olá! Eu sou a Thay 👋
+### Olá! Eu sou a Thai 👋
 
-- 🔭 Faço estágio em Arquitetura de TI
-- 🌱 Estudando Java
-- 📫 Contate-me no e-mail: thaislanesteves@hotmail.com
-- 😄 Pronouns: ela/dela
+🔭 Formada em Engenharia da Computação
+🌱 Analista de BI Jr
+💡 Apaixonada por criptomoedas e tecnologia blockchain
+🚀 Exploradora de dApps e inovadora em soluções descentralizadas
+📫 Contate-me no e-mail: thaislanesteves@hotmail.com
+😄 Pronouns: ela/dela
 
 ##
 <div align="center">
