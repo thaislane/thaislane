@@ -1,10 +1,9 @@
 ### Olá! Eu sou a Thai 👋
 
 🔭 Formada em Engenharia da Computação
-🌱 Analista de BI Jr
+🌱 Analista de BI
 💡 Apaixonada por criptomoedas e tecnologia blockchain
 🚀 Exploradora de dApps e inovadora em soluções descentralizadas
-📫 Contate-me no e-mail: thaislanesteves@hotmail.com
 😄 Pronouns: ela/dela
 
 ##
